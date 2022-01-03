@@ -1,4 +1,4 @@
-package github.com/BCEwaynes/greetings/testcode.mod
+package github.com/BCEwaynes/greetings/greetings.mod
 
 import (
 	"errors"
