@@ -1,4 +1,4 @@
-module github.com/BCEwaynes/greetings/greetings.mod
+module github.com/BCEwaynes/greetings/greeter.mod
 
 go 1.17
 
