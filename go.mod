@@ -1,3 +1,3 @@
-module github.com/BCEwaynes/greetings/testcode.mod
+module github.com/BCEwaynes/greetings/greetings.mod
 
 go 1.17
