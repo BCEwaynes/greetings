@@ -1,4 +1,4 @@
-package greeter
+package github.com/BCEwaynes/greetings/greeter
 
 import (
 	"fmt"
