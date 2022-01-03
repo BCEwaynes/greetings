@@ -1,4 +1,4 @@
-package github.com/BCEwaynes/greetings/greetings.mod
+package greetings
 
 import (
 	"errors"
